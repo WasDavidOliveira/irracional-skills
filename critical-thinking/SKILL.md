@@ -9,6 +9,8 @@ description: Use when revisar ou refatorar código com responsabilidades mistas,
 
 Guia de **excelência técnica intrínseca**: priorizar legibilidade linear, manutenção e previsibilidade do fluxo, sem apelar a estereótipos de “Big Tech” ou complexidade por prestígio.
 
+Self-contained: princípios e padrões curtos ficam inline neste `SKILL.md`. Referência muito longa (100+ linhas) ou ferramentas reutilizáveis passam a arquivos irmãos neste mesmo diretório, se necessário.
+
 ## Quando usar
 
 - Revisão de design, refatoração estrutural ou saída de código após mudanças grandes.
