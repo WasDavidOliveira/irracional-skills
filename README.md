@@ -1,4 +1,4 @@
-# Skills para agentes de código
+# IRRACIONAL SKILLS
 
 Este repositório guarda **Agent Skills**: ficheiros em Markdown (e, quando faz sentido, código de apoio) que instruem assistentes de IA — por exemplo no **Cursor** — sobre **quando** e **como** aplicar um conjunto de regras ou um fluxo de trabalho. Cada skill é um pacote reutilizável, não a história de um bugfix isolado.
 
